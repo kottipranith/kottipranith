@@ -1,12 +1,33 @@
 # Hi, I'm Pranith! 👋
 
 ## 🛠️ Skills
-- **Languages**: Java, JavaScript, Python, C++
-- **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: Spring Boot, Node.js
-- **Databases**: MySQL, PostgreSQL
-- **Cloud**: AWS (Certified Cloud Practitioner)
-- **Others**: Git
+
+- **Languages**:
+  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+  
+- **Frontend**:
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+
+- **Backend**:
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=flat&logo=spring&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white)
+
+- **Databases**:
+  ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=flat&logo=postgresql&logoColor=white)
+
+- **Cloud**:
+  ![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=flat&logo=amazon-aws&logoColor=white)
+
+- **Others**:
+  ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+
 
 ## 📊 GitHub Stats
 ![Pranith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kottipranith&show_icons=true&theme=radical)
