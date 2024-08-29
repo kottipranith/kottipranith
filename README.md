@@ -6,8 +6,7 @@
   ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-  
+  ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)  
 - **Frontend**:
   ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
@@ -41,8 +40,7 @@
 
 ## 🚀 GitHub Activity
 - **Total Contributions**: ![Contributions](https://komarev.com/ghpvc/?username=kottipranith&label=Contributions&color=red&style=flat-square)
-- **Pull Requests**: ![Pull Requests](https://img.shields.io/github/issues-pr/kottipranith?color=green&style=flat-square)
-- **Issues**: ![Issues](https://img.shields.io/github/issues/kottipranith?color=blue&style=flat-square)
+
 
 ## 💡 LeetCode Heatmap
 [![LeetCode Stats](https://leetcard.jacoblin.cool/klu_2100031054?theme=dark)](https://leetcode.com/klu_2100031054/)
