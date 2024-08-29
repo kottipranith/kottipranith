@@ -6,7 +6,7 @@
 - **Backend**: Spring Boot, Node.js
 - **Databases**: MySQL, PostgreSQL
 - **Cloud**: AWS (Certified Cloud Practitioner)
-- **Others**: Git, Docker, Kubernetes
+- **Others**: Git
 
 ## 📊 GitHub Stats
 ![Pranith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kottipranith&show_icons=true&theme=radical)
@@ -24,7 +24,7 @@
 - **Issues**: ![Issues](https://img.shields.io/github/issues/kottipranith?color=blue&style=flat-square)
 
 ## 💡 LeetCode Heatmap
-[![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/klu_2100031054?theme=dark)](https://leetcode.com/klu_2100031054/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/klu_2100031054?theme=dark)](https://leetcode.com/klu_2100031054/)
 
 ## 📫 Connect with Me
 - **GitHub**: [kottipranith](https://github.com/kottipranith)
